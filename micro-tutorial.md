@@ -1,6 +1,14 @@
+# Micro Tutorial
+
+## Step 1
+
+Click 
+
+```blocks
 input.onButtonPressed(Button.A, function () {
     led.toggle(1, 3)
 })
-input.onButtonPressed(Button.B, function () {
-	
-})
+```
+
+## Step 2
+Do that
