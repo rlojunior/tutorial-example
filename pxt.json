@@ -9,7 +9,9 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "micro-tutorial.md"
+        "micro-tutorial.md",
+        "_locales/en-CA/micro-tutorial.md",
+        "macro-test.md"
     ],
     "testFiles": [
         "test.ts"
